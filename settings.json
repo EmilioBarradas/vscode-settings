@@ -1,0 +1,12 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "editor.fontSize": 24,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.suggestSelection": "first",
+    "editor.detectIndentation": false,
+    "terminal.external.windowsExec": "C:\\Users\\Emilio\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+    "markdown.preview.fontSize": 20,
+}
